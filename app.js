@@ -4,10 +4,10 @@ var age=prompt('How old are you ?');
 
 if(age == 18 || age> 18)
 {
-   alert('you can search now !');
+   console.log('you can search now !');
 
 }
 else
 {
- alert('sorry! look at the Academy Section');
+ console.log('sorry! look at the Academy Section');
 }
