@@ -1,12 +1,12 @@
-body{
-font-family: Arial; font-size: 1em;  color: blue; background-color:#02B9ED; border-color:white; padding:0; margin:1%
-}
+<style>
+*
+{
+font-family: Arial; font-size: 1em;  color: blue; background-color:#02B9ED; border-color:white; padding:0; margin:1%;}
 
-div#A1 {position: relative;  margin-bottom:3%;}
+div#A1 {position: relative; margin-bottom:3%;}
 
 
 div#C3 {position: relative;  margin-bottom:3%;}
-
 
 div#academies {display:block; left:100vw; border-right: hidden; margin-bottom:10%;}
 
@@ -21,3 +21,4 @@ footer{
   background-color: hsl(271.01,91.75%,19.02%);
   text-align: center;
 }
+</style>
