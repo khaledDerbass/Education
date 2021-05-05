@@ -1,6 +1,5 @@
-<style>
-*
-{font-family: Arial; font-size: 1em;  color: blue; background-color:#02B9ED; border-color:white; padding:0; margin:1%;}
+body
+{font-family: Arial; font-size: 1em;  color: black; background-color:rgba(2, 182, 237, 0.856); border-color:white; padding:0; margin:1%;}
 
 div#A1 {position: relative; margin-bottom:3%;}
 
@@ -16,8 +15,7 @@ div#courses {display:block; left:100vw; border-right: hidden; margin-bottom:10%;
 
 footer{
   height: 100px;
-  color: gray;
-  background-color: hsl(271.01,91.75%,19.02%);
+  color: rgb(0, 0, 0);
+  background-color: rgb(139, 92, 185);
   text-align: center;
 }
-</style>
